@@ -16,7 +16,7 @@ Laravel.
 
 ### Prérequis
 
-- PHP 7.4+
+- PHP 8+
 - Composer
 - Laravel 8+
 - MySQL (ou autre base de données compatible)
